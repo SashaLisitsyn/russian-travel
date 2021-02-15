@@ -1,0 +1,7 @@
+@media screen and (max-width: 320px) {
+  .place__paragraphs {
+    margin: 0 auto;
+    margin-top: 32px;
+    text-align: left;
+  }
+}

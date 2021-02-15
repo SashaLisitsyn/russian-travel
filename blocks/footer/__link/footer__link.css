@@ -1,0 +1,43 @@
+.footer__link {
+  max-width: 106px;
+  margin: 0;
+  margin-right: 18px;
+  transition: opacity 0.5s linear 0.1s;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 112%;
+  color: #ffffff;
+}
+
+.footer__link:hover {
+  opacity: 0.8;
+}
+
+.footer__link:last-of-type {
+  margin-right: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .footer__link {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .footer__link {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  .footer__link {
+    max-width: 74px;
+    margin-bottom: 32px;
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .footer__link:last-of-type {
+    margin-bottom: 0;
+  }
+}
