@@ -4,4 +4,4 @@
 
 Как при написании кода, так и при структурировании файлов за основу была взята методология БЭМ. 
 
-https://sashalisitsyn.github.io/russian-travel/
+https://sashalisitsyn.github.io/Russian_travel/
